@@ -1,0 +1,59 @@
+
+body {
+  background-image: url("assets/egg_bg.png");
+  background-size: cover;
+  background-position: center;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  text-align: center;
+  padding-top: 60px;
+  margin: 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  background: #fef3c7;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #d97706;
+}
+
+.buttons button {
+  padding: 15px 30px;
+  border-radius: 30px;
+  border: none;
+  font-size: 18px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+button.soft {
+  background: #fef08a; /* pastel yellow */
+}
+button.medium {
+  background: #fdba74; /* pastel orange */
+}
+button.hard {
+  background: #fca5a5; /* pastel red/pink */
+}
+.buttons button:hover {
+  transform: scale(1.1);
+}
+
+.timer {
+  font-size: 48px;
+  margin-top: 20px;
+  color: #1e3a8a;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #065f46;
+}
