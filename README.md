@@ -1,25 +1,30 @@
-# Basic Web Development Project 🌐
+# MY-FIRST-REPO
 
-## 📌 Overview
-This project is part of the **Microsoft Learn Web Development Fundamentals** module. It demonstrates basic web development concepts including **HTML**, **CSS**, and **basic layout design**.
+This repository contains my web development projects and practice work.
 
----
+## 📂 Projects
 
-## 🔑 Key Features
-✔ Responsive structure using HTML and CSS  
-✔ Clean and semantic markup  
-✔ Beginner-friendly code for learning purposes  
+### 1. Microsoft Web Dev Basics
+- **Description:** Basic HTML & CSS practice from Microsoft's module.
+- **Files:** `index.html`, `style.css`
 
 ---
 
-## 🛠 Technologies Used
-- HTML5
-- CSS3
+### 2. FCC Cat Photo App
+- **Description:** FreeCodeCamp project to practice HTML structure and semantic elements.
+- **Files:** `fcc-cat-photo-app/index.html`, `fcc-cat-photo-app/style.css`
+- **Preview:** *(Add link after deployment)*
 
 ---
 
-## 📂 Project Structure
-index.html
-style.css
-assets/
+### 3. FCC Cafe Menu
+- **Description:** A simple cafe menu built with HTML & CSS.
+- **Files:** `fcc-cafe-menu/index.html`, `fcc-cafe-menu/style.css`
+- **Preview:** *(Add link after deployment)*
+
 ---
+
+## 🚀 How to View
+- Clone this repo:
+  ```bash
+  git clone https://github.com/eliteengineerrishi-boop/MY-FIRST-REPO.git
