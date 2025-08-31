@@ -21,7 +21,12 @@ This repository contains my web development projects and practice work.
 - **Description:** A simple cafe menu built with HTML & CSS.
 - **Files:** `fcc-cafe-menu/index.html`, `fcc-cafe-menu/style.css`
 - **Preview:** *(Add link after deployment)*
+  
+---
 ### 4. EGG TIMER APP
+- **Description:** A simple egg timer app built with HTML,CSS & JS with a figma template.
+- **Files:** `egg-timer-app/index.html`, `egg-timer-app/style.css`,`egg-timer-app/script.js`
+- **Preview:** *(Add link after deployment)*
 # MY-FIRST-REPO
 
 This repository contains my web development projects and practice work.
